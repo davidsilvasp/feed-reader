@@ -19,7 +19,7 @@ The tests of this project are implemented in 4 different test suites. Each suite
     The first test suite. This suite is all about the RSS feeds definitions, the allFeeds variable in the application.
 
     * **Specifications:**
-        * Should ensures that the allFeeds variable is defined and not empty.
+        * Should ensure that the allFeeds variable is defined and not empty.
         * Should ensure that all feed has a name defined and that it is not empty.
 
 
