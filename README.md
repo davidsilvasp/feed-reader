@@ -26,6 +26,7 @@ The tests of this project are implemented in 4 different test suites. Each suite
 * **The Menu**
 
     * **Description:**
+    
     This test suite is about the interaction with the menu.
 
     * **Specifications**
@@ -35,6 +36,7 @@ The tests of this project are implemented in 4 different test suites. Each suite
 
 * **Initial Entries**
     * **Description:**
+    
         This test suite is about initial entries.
 
     * **Specifications:**
