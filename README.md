@@ -15,7 +15,8 @@ The tests of this project are implemented in 4 different test suites. Each suite
 
 * **RSS Feeds**
 
-: The first test suite. This suite is all about the RSS feeds definitions, the allFeeds variable in the application.
+    * **Description:**
+    The first test suite. This suite is all about the RSS feeds definitions, the allFeeds variable in the application.
 
     * **Specifications:**
         * Should ensure that the allFeeds variable is defined and not empty.
@@ -25,7 +26,6 @@ The tests of this project are implemented in 4 different test suites. Each suite
 * **The Menu**
 
     * **Description:**
-    
     This test suite is about the interaction with the menu.
 
     * **Specifications**
@@ -38,10 +38,11 @@ The tests of this project are implemented in 4 different test suites. Each suite
         This test suite is about initial entries.
 
     * **Specifications:**
-        * Should ensure that at least a single entry is loaded
+        * Should ensure that at least a single entry is loaded.
 
 
 * **New Feed Selection**
+
     * **Description:**
     This test suite is about the selection of a new feed.
 
